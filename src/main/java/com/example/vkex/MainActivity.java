@@ -134,7 +134,8 @@ public class MainActivity extends Activity {
                 });
             }
 
-
+        });
+    }
 
             protected void onActivityResult(int requestCode, int resultCode, Intent data) {
                 if (!VKSdk.onActivityResult(requestCode, resultCode, data, new VKCallback<VKAccessToken>() {
@@ -163,8 +164,8 @@ public class MainActivity extends Activity {
 
                 })) ;
             }
-        });
-    }
+
+
 }
 
 
