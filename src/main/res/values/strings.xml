@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VKex</string>
+    <string name="showmessage">showMessage</string>
+    <string name="humores">Humores</string>
+    <integer name="com_vk_sdk_AppId">5822404</integer>
+</resources>
